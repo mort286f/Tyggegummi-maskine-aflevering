@@ -1,0 +1,6 @@
+C:\Users\PC Morten\source\repos\Opgave - Tyggegummimaskinen\Opgave - Tyggegummimaskinen\bin\Debug\Opgave - Tyggegummimaskinen.exe.config
+C:\Users\PC Morten\source\repos\Opgave - Tyggegummimaskinen\Opgave - Tyggegummimaskinen\bin\Debug\Opgave - Tyggegummimaskinen.exe
+C:\Users\PC Morten\source\repos\Opgave - Tyggegummimaskinen\Opgave - Tyggegummimaskinen\bin\Debug\Opgave - Tyggegummimaskinen.pdb
+C:\Users\PC Morten\source\repos\Opgave - Tyggegummimaskinen\Opgave - Tyggegummimaskinen\obj\Debug\Opgave - Tyggegummimaskinen.csprojAssemblyReference.cache
+C:\Users\PC Morten\source\repos\Opgave - Tyggegummimaskinen\Opgave - Tyggegummimaskinen\obj\Debug\Opgave - Tyggegummimaskinen.exe
+C:\Users\PC Morten\source\repos\Opgave - Tyggegummimaskinen\Opgave - Tyggegummimaskinen\obj\Debug\Opgave - Tyggegummimaskinen.pdb
