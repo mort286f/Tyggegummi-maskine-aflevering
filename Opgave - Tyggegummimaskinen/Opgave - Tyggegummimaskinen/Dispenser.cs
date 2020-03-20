@@ -8,7 +8,7 @@ namespace Opgave___Tyggegummimaskinen
 {
     class Dispenser
     {
-
+//Flot at du har brugt en singleton, men hvor kan jeg trække et tyggegummi henne? Hvis jeg var et lille barn ville jeg blive ked af det - hvis jeg havde fået sådan en fin maskine men ikke kunne få tyggegummierne ud!!! :)
             private static Dispenser instance;
 
 
@@ -34,6 +34,7 @@ namespace Opgave___Tyggegummimaskinen
 
         public Dispenser()
         {
+            //Det kunne du godt gøre bedre Morten! Hvorfor bruger du ikke løkker?
             //Blue bubblegum
             blue[0] = new Bubblegum("Blue"); blue[1] = new Bubblegum("Blue"); blue[2] = new Bubblegum("Blue"); blue[3] = new Bubblegum("Blue"); blue[4] = new Bubblegum("Blue"); blue[5] = new Bubblegum("Blue"); blue[6] = new Bubblegum("Blue"); blue[7] = new Bubblegum("Blue"); blue[8] = new Bubblegum("Blue"); blue[9] = new Bubblegum("Blue"); blue[10] = new Bubblegum("Blue"); blue[11] = new Bubblegum("Blue"); blue[12] = new Bubblegum("Blue"); blue[13] = new Bubblegum("Blue");
 
